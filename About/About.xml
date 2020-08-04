@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Transport Pod MK2 (Continued)</name>
-  	<packageId>Mlie.TransportPodMK2</packageId>
-	<author>ww9</author>
-	<url>https://github.com/emipa606/TransportPodMK2</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of ww9s mod for RimWorld 1.1
+  <name>Transport Pod MK2 (Continued)</name>
+  <packageId>Mlie.TransportPodMK2</packageId>
+  <author>ww9</author>
+  <url>https://github.com/emipa606/TransportPodMK2</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of ww9s mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=1663014229
 
 [img]https://i.imgur.com/GYswkZ7.png[/img]
