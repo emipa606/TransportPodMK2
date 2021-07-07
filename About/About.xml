@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Transport Pod MK2 (Continued)</name>
   <packageId>Mlie.TransportPodMK2</packageId>
@@ -8,33 +8,55 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of ww9s mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of ww9s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1663014229
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/TransportPodMK2
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/TransportPodMK2][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-Transport Pod MK2
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+[h1]Some kind lad updated the mod for 1.1. Get it here: https://steamcommunity.com/sharedfiles/filedetails/?id=2064607975[/h1]
+
+The 1.1 update author above has my permission to claim the mod as his and change however he pleases.
+
+[h1]Transport Pod MK2 for 1.0 below[/h1]
 Adds a new transport pod that can carry 5000kg (vanilla is 150kg)
 Adds a new Pod Launcher that can hold 1600 fuel (vanilla is 150)
 Reaches anywhere on the planet
 Pod launcher is compact: 1x1 compared to vanilla 2x1
 Adds new research required: Transport Pod MK2
 
-Zip download
+[h1]Zip download[/h1]
 Please check my github repo for direct downloads of my mods: https://github.com/ww9/rimworld
 
-Todo
+[h1]Todo[/h1]
 Reusable pods
 All-in-one pods (no launcher required)
-Buildable floor area to determine where pods land in base. https://i.imgur.com/dVWtaf6.jpg</description>
+Buildable floor area to determine where pods land in base. 
+[img]https://i.imgur.com/dVWtaf6.jpg[/img]
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
