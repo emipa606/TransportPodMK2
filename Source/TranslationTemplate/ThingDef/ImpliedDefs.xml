@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pod Launcher MK2 (blueprint) -->
+  <Blueprint_PodLauncherMKTwo.label>Pod Launcher MK2 (blueprint)</Blueprint_PodLauncherMKTwo.label>
+  <!-- EN: Pod Launcher MK2 (building) -->
+  <Frame_PodLauncherMKTwo.label>Pod Launcher MK2 (building)</Frame_PodLauncherMKTwo.label>
+  <!-- EN: Advanced pod launcher with enough fuel capacity to reach the entire planet. -->
+  <Frame_PodLauncherMKTwo.description>Advanced pod launcher with enough fuel capacity to reach the entire planet.</Frame_PodLauncherMKTwo.description>
+</LanguageData>

@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- Launcher -->
+  <!-- EN: Pod Launcher MK2 -->
   <PodLauncherMKTwo.label>Pod Launcher MK2</PodLauncherMKTwo.label>
+  <!-- EN: Advanced pod launcher with enough fuel capacity to reach the entire planet. -->
   <PodLauncherMKTwo.description>Advanced pod launcher with enough fuel capacity to reach the entire planet.</PodLauncherMKTwo.description>
-  <PodLauncherMKTwo_Blueprint.label>Pod Launcher MK2 (blueprint)</PodLauncherMKTwo_Blueprint.label>
-  <PodLauncherMKTwo_Frame.label>Pod Launcher MK2 (building)</PodLauncherMKTwo_Frame.label>
-  <PodLauncherMKTwo_Frame.description>Advanced pod launcher with enough fuel capacity to reach the entire planet.</PodLauncherMKTwo_Frame.description>
-  <!-- <DesignatorDropdownGroupDef>
-		<defName>AdvTransportPods</defName>
-	</DesignatorDropdownGroupDef> -->
+  <!-- EN: Transport Pod MK2 -->
   <TransportPodMKTwo.label>Transport Pod MK2</TransportPodMKTwo.label>
+  <!-- EN: A heavy duty launchable sub-orbital cargo pod. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
   <TransportPodMKTwo.description>A heavy duty launchable sub-orbital cargo pod. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles.</TransportPodMKTwo.description>
 </LanguageData>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!--========================= Launcher =========================-->
-  <ThingDef Name="PodLauncherMK2_Base" Abstract="True">
-    <category>Building</category>
-    <thingClass>Building</thingClass>
-    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
-    <selectable>true</selectable>
-    <drawerType>MapMeshAndRealTime</drawerType>
-    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-    <repairEffect>Repair</repairEffect>
-    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
-    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
-    <statBases>
-      <SellPriceFactor>0.70</SellPriceFactor>
-    </statBases>
-  </ThingDef>
-  <ThingDef ParentName="PodLauncherMK2_Base">
+  <ThingDef ParentName="BuildingBase">
     <defName>PodLauncherMKTwo</defName>
     <label>Pod Launcher MK2</label>
     <description>Advanced pod launcher with enough fuel capacity to reach the entire planet.</description>
@@ -24,6 +10,7 @@
       <graphicClass>Graphic_Multi</graphicClass>
       <drawSize>(1,1)</drawSize>
     </graphicData>
+    <drawerType>MapMeshAndRealTime</drawerType>
     <size>(1,1)</size>
     <rotatable>true</rotatable>
     <altitudeLayer>Building</altitudeLayer>
@@ -61,6 +48,7 @@
         <showFuelGizmo>true</showFuelGizmo>
         <drawOutOfFuelOverlay>false</drawOutOfFuelOverlay>
         <drawFuelGaugeInMap>false</drawFuelGaugeInMap>
+        <showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
       </li>
     </comps>
     <placeWorkers>
@@ -119,8 +107,11 @@
       <li Class="CompProperties_Transporter">
         <restEffectiveness>0.8</restEffectiveness>
         <massCapacity>5000</massCapacity>
+        <canChangeAssignedThingsAfterStarting>true</canChangeAssignedThingsAfterStarting>
       </li>
-      <li Class="CompProperties_Launchable" />
+      <li Class="CompProperties_Launchable_TransportPod">
+        <skyfallerLeaving>DropPodLeaving</skyfallerLeaving>
+      </li>
     </comps>
     <researchPrerequisites>
       <li>TransportPodMK2Research</li>
