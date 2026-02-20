@@ -22,6 +22,10 @@
     <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
     <building>
       <hasFuelingPort>true</hasFuelingPort>
+      <relatedBuildCommands>
+        <li>TransportPod</li>
+        <li>TransportPodMKTwo</li>
+      </relatedBuildCommands>
     </building>
     <statBases>
       <MaxHitPoints>1000</MaxHitPoints>
@@ -49,6 +53,7 @@
         <drawOutOfFuelOverlay>false</drawOutOfFuelOverlay>
         <drawFuelGaugeInMap>false</drawFuelGaugeInMap>
         <showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+        <canEjectFuel>true</canEjectFuel>
       </li>
     </comps>
     <placeWorkers>
