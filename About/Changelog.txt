@@ -1,5 +1,8 @@
 # Changelog for TransportPodMK2
 
+1.7.0 - Mod updated for 1.7 and passed autotests
+
+
 1.6.1 - Added eject fuel and related buildcommand to the podlauncher
 
 

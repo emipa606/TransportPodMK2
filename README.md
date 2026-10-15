@@ -48,4 +48,4 @@ Buildable floor area to determine where pods land in base.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/TransportPodMK2?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2064607975) | tags: research, pod
+[![Image](https://img.shields.io/github/v/release/emipa606/TransportPodMK2?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2064607975) | research, pod
